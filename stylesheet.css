@@ -9,7 +9,7 @@ section {
     background-color: #1c1d25;
     height: 100vh;
     color: white;
-    font-size: 40px;
+    font-size: 30px;
 
 }
 
@@ -20,4 +20,18 @@ footer {
 
 nav {
     display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    width: 550px;
+    justify-content: space-around;
+}
+
+li
+{
+   /* width: 200px; */
+    text-decoration: none;
 }
