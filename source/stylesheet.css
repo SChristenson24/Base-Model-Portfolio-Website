@@ -5,7 +5,7 @@ body {
 section {
 
     background-color: white;
-    border: solid black 1px;
+
 
 }
 
@@ -111,6 +111,13 @@ p {
     padding: 80px;
 }
 
+.sub-section {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 80px;
+}
+
 .headshot {
     width: 270px;
     height: 270px;
@@ -121,4 +128,17 @@ p {
     display: flex;
     align-items: center;
 }
+
+.project-card {
+    width: 270px;
+    height: 500px;
+    box-shadow: 8px 0px 20px #c3bec3;
+}
+
+.projectc {
+    display: flex;
+    justify-content: space-around;
+}
+
+
 
