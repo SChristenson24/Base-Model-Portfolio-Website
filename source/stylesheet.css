@@ -145,5 +145,9 @@ p {
     justify-content: space-around;
 }
 
+a {
+    text-decoration: none;
+    color: white;
+}
 
 
