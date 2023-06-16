@@ -63,6 +63,13 @@ p {
     font-weight: 300px;
 }
 
+.sub-text2 {
+    font-size: 13px;
+    font-weight: 300px;
+    text-decoration: none;
+    color: pink;
+}
+
 .hero-area{
     display: flex;
     height: 100%;
@@ -143,6 +150,12 @@ p {
 .projectc {
     display: flex;
     justify-content: space-around;
+}
+
+.project-image {
+    height: 150px;
+    width: 150px;
+    border-radius: 150px;
 }
 
 a {
