@@ -141,6 +141,13 @@ p {
     padding: 20px;
 }
 
+.course-section {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    padding: 120px;
+}
+
 .headshot {
     width: 270px;
     height: 270px;
