@@ -170,6 +170,13 @@ p {
     justify-content: space-around;
 }
 
+@media only screen and (max-width: 1000px) {
+    .projectc {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
 .project-image {
     height: 150px;
     width: 150px;
@@ -180,5 +187,6 @@ a {
     text-decoration: none;
     color: white;
 }
+
 
 
