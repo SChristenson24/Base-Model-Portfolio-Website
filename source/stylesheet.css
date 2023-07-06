@@ -10,7 +10,7 @@ section {
 }
 
 .hero {
-    background-color: #1c1d25;
+    background-color: #8F9779;
     height: 100vh;
     color: white;
     font-size: 30px;
@@ -19,7 +19,7 @@ section {
 
 footer {
     height: 500px;
-    background-color: black;
+    background-color: #9F8170;
 }
 
 nav {
@@ -40,7 +40,7 @@ li
 }
 
 h1{
-    font-size: 65px;
+    font-size: 75px;
     margin: 0;
     font-weight: 800;
 
@@ -60,6 +60,22 @@ p {
     padding-top: 25px;
     font-weight: 300;
     font-size: 23px;
+}
+
+.contact-p {
+    color: white;
+    font-size: 20px;
+}
+
+.contact-p:hover{
+    color: #54443a;
+}
+
+.small-text{
+    font-size: 10px;
+    font-weight: 200px;
+    text-decoration: none;
+    color: white;
 }
 
 .sub-text {
@@ -113,7 +129,7 @@ p {
 }
 
 .logo {
-    height: 100px;
+    height: 60px;
 }
 
 .icons {
